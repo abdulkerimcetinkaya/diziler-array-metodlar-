@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\bin\Debug\net6.0\diziler-array-metodları.exe
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\bin\Debug\net6.0\diziler-array-metodları.deps.json
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\bin\Debug\net6.0\diziler-array-metodları.runtimeconfig.json
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\bin\Debug\net6.0\diziler-array-metodları.dll
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\bin\Debug\net6.0\diziler-array-metodları.pdb
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.dll
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\refint\diziler-array-metodları.dll
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.pdb
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\diziler-array-metodları.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Pratikler\diziler-array-metodları\obj\Debug\net6.0\ref\diziler-array-metodları.dll
